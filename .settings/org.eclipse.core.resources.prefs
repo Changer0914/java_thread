@@ -1,0 +1,5 @@
+eclipse.preferences.version=1
+encoding//src/cn/smartshuai/deadlock/DeadThread.java=UTF-8
+encoding//src/cn/smartshuai/deadlock/LockA.java=UTF-8
+encoding//src/cn/smartshuai/deadlock/LockB.java=UTF-8
+encoding//src/cn/smartshuai/deadlock/TestDeadThread.java=UTF-8
