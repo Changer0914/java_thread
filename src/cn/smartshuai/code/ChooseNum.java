@@ -12,7 +12,7 @@ public class ChooseNum implements Runnable {
 			list.add(i);
 		}
 	}
-	
+
 	public void run(){
 		Random r = new Random();
 		while(true){
